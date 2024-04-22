@@ -50,5 +50,3 @@ Contributions are welcome! If you find any errors, typos, or want to add new con
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the sections, add more details, or include links to specific resources. The README serves as a helpful guide for users to understand what your repository offers and how they can benefit from it.
