@@ -18,7 +18,7 @@ In this repository, you'll find detailed explanations and examples of various da
 
 Explore different data structures, including:
 
-- Arrays
+- [Arrays](Arrays.md)
 - Linked Lists
 - Stacks
 - Queues
